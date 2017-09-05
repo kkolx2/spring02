@@ -9,6 +9,7 @@ public class HelloSpring {
 		System.out.println("2. AOP (Aspect Oriented Programming) 관점 지향 프로그래밍");
 		
 		System.out.println("내용추가 TEST - HOST PC");
+		System.out.println("내용추가 TEST - GUEST PC");
 	}
 
 }
