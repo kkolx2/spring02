@@ -7,6 +7,8 @@ public class HelloSpring {
 		System.out.println("1. DI (Dependency Injection) 의존 주입");
 		System.out.println("   - Spring이 구현한 구체적인 IoC");
 		System.out.println("2. AOP (Aspect Oriented Programming) 관점 지향 프로그래밍");
+		
+		System.out.println("내용추가 TEST - HOST PC");
 	}
 
 }
